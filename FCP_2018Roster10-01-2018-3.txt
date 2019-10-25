@@ -3,7 +3,7 @@ OL,Bradley Bozeman,24,2018,64,60,82,80,74,72,0.6,4
 OL,Hroniss Grasu,27,2015,64,74,72,70,72,69,0.8,1
 OL,Matt Skura,25,2017,75,71,74,74,77,75,0.6,1
 CB,Anthony Averett,24,2018,70,55,77,72,74,70,0.8,4
-CB,Maurice Canady,24,2016,73,68,74,78,73,70,0.6,4
+CB,Maurice Canady,34,2016,73,68,74,78,73,70,0.6,4
 CB,Jaylen Hill,24,2017,66,58,82,76,84,59,0.6,3
 CB,Marlon Humphrey,22,2017,88,85,85,86,85,85,3.0,4
 CB,Stanley Jean-Baptiste,28,2014,68,51,88,76,86,48,0.6,1
